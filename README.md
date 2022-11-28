@@ -12,9 +12,9 @@
 
 ### 👤 My Accounts 👤
 
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/hellin.786)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/noob.hackers)
 
-[![](https://img.shields.io/badge/Messenger-red?logo=Messenger&logoColor=red&labelColor=black)](https://m.me/hellin.786) <br>
+[![](https://img.shields.io/badge/Messenger-red?logo=Messenger&logoColor=red&labelColor=black)](https://m.me/noob.hackers) <br>
 
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/923404708884?text=Hello+Younis+John) <br><br>
 
