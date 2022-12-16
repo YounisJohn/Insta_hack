@@ -1,7 +1,5 @@
-# Insta_hack
-
-![logo](https://i.postimg.cc/pXDWHY6D/Screenshot-20200930-062011-Chrome.jpg)
-
+# insta_hack
+PAID TOOLS
 * **Visitor Github @YounisJohn**
 
 ![YounisJohn](https://komarev.com/ghpvc/?username=YounisJohn&color=blue)
@@ -18,47 +16,31 @@
 
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/923404708884?text=Hello+Younis+John) <br><br>
 
+
+<h1 align="center"> [Younis.john]</h1>
+
+<h2 align="center">  INSTAGRAM CLONING TOOL </h2>
+
 ## 📸 Screenshot 📸
 
 ![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisJohn/Insta_hack/blob/main/Picsart_22-11-28_09-06-52-290.png)
 
-## ⚙️ Installation ⚙️
+## <b>installation</b>
 
-```python
 
-➤➤ Command ➤➤
+- `pkg update`
+- `pkg upgrade`
+- `pkg install git`
+- `pkg install python`
+- `pip install requests`
+- `pip install mechanize`
+- `rm -rf Insta_hack`
+- `git clone https://github.com/YounisJohn/Insta_hack`
+- `cd Insta_hack`
+- `mkdir data`
+- `python instaxyz.py`
 
-➤ termux-setup-storage
 
-➤ apt update
 
-➤ apt upgrade
-
-➤ pkg install python
-
-➤ pkg install git
-
-➤ pip install requests
-
-➤ pip install mechanize
-
-➤ pip install rich
-
-➤ pip install bs4
-
-➤ rm -rf Insta_hack
-
-➤ git clone https://github.com/YounisJohn/Insta_hack
-
-```
-
-#### RUN SCRIPT
-
-```python
-
-➤ cd Insta_hack 
-
-➤ python instaxyz.py
-
-```
-
+ ___This Tools is Paid___</br>
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-Younis.john-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923404708884)
