@@ -42,5 +42,5 @@ PAID TOOLS
 
 
 
- ___This Tools is Paid___</br>
+ ___This Tools is Free___</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-Younis.john-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923404708884)
